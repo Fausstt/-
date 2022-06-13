@@ -1,0 +1,15 @@
+
+
+.pf_linc, .reg_linc, .fact, .d_info{
+  margin: 10px 0;
+}
+.pf_linc1, .reg_linc1, .fact1,.d_info1{
+  margin-top: 0;
+}
+.pf_linc5, .reg_linc2, .fact5,.d_info2{
+  margin-bottom: 0;
+}
+
+.info{
+margin-bottom: 20px;
+}
